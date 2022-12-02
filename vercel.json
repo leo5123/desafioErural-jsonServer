@@ -19,11 +19,6 @@
         "includeFiles": ["db.json"]
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "server.js"
-    }
   ]
+  
 }
