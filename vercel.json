@@ -3,6 +3,7 @@
    "headers": [
         {
       "source": "/(.*)",
+          "dest": "server.js",
       "headers": [
         {
           "key": "Cache-Control",
